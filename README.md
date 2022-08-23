@@ -22,7 +22,7 @@
        技术文章
      </td>
      <td width="25%" align="center">
-       <a href="https://www.jianshu.com/u/a32f8c6cf514">简书</a>
+       <a href="https://www.cnblogs.com/hanshanpeng">博客园</a>
       <br><br><br>
        原创社区
      </td>
